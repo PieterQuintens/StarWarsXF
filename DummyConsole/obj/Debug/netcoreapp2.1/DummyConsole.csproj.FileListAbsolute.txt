@@ -1,0 +1,16 @@
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\DummyConsole.deps.json
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\DummyConsole.runtimeconfig.json
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\DummyConsole.runtimeconfig.dev.json
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\DummyConsole.dll
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\DummyConsole.pdb
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\StarWars.Data.dll
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\StarWars.Domain.dll
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\StarWars.Data.pdb
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\bin\Debug\netcoreapp2.1\StarWars.Domain.pdb
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.csprojAssemblyReference.cache
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.csproj.CoreCompileInputs.cache
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.AssemblyInfoInputs.cache
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.AssemblyInfo.cs
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.csproj.CopyComplete
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.dll
+C:\dev\Xamarin\Lab_StarWarsXF_Start\DummyConsole\obj\Debug\netcoreapp2.1\DummyConsole.pdb
