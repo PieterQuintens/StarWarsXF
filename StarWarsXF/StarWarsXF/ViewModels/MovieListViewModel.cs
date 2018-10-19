@@ -14,7 +14,7 @@ namespace StarWarsXF.ViewModels
 {
     public class MovieListViewModel
     {
-        private INavigationService _navigationService;
+        private readonly INavigationService _navigationService;
 
         public IList<Movie> Movies { get; set; }
         

@@ -38,7 +38,7 @@ namespace StarWarsXF.ViewModels
             }
         }
 
-        private void ChangeCanExecuteRating()
+        public void ChangeCanExecuteRating()
         {
             RateUpCommand.ChangeCanExecute();
             RateDownCommand.ChangeCanExecute();
