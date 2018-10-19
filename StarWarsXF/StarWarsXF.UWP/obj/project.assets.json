@@ -12010,11 +12010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\StarWarsXF.UWP.csproj",
+      "projectUniqueName": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\StarWarsXF.UWP.csproj",
       "projectName": "StarWarsXF.UWP",
-      "projectPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\StarWarsXF.UWP.csproj",
+      "projectPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\StarWarsXF.UWP.csproj",
       "packagesPath": "C:\\Users\\11601738\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\obj\\",
+      "outputPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -12034,8 +12034,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
-              "projectPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
+            "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj": {
+              "projectPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWarsXF\\StarWarsXF\\StarWarsXF.csproj"
             }
           }
         }

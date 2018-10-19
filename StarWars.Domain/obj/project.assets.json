@@ -753,11 +753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj",
+      "projectUniqueName": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj",
       "projectName": "StarWars.Domain",
-      "projectPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj",
+      "projectPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj",
       "packagesPath": "C:\\Users\\11601738\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\obj\\",
+      "outputPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

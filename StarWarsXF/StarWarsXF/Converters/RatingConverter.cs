@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
+using StarWarsUniverse.Domain;
 using Xamarin.Forms;
 
 namespace StarWarsXF.Converters
@@ -11,9 +12,9 @@ namespace StarWarsXF.Converters
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
 
-            if (value is float ratingValue)
+            if (value is float rating)
             {
-                return (double)ratingValue / 10;
+                return (double)rating / 10;
             }
 
             return null;

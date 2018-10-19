@@ -3451,11 +3451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\StarWars.Data.csproj",
+      "projectUniqueName": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\StarWars.Data.csproj",
       "projectName": "StarWars.Data",
-      "projectPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\StarWars.Data.csproj",
+      "projectPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\StarWars.Data.csproj",
       "packagesPath": "C:\\Users\\11601738\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\obj\\",
+      "outputPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3474,8 +3474,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj": {
-              "projectPath": "C:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj"
+            "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj": {
+              "projectPath": "D:\\dev\\Xamarin\\Lab_StarWarsXF_Start\\StarWars.Domain\\StarWars.Domain.csproj"
             }
           }
         }

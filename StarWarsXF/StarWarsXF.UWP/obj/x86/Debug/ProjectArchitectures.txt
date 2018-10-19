@@ -1,1 +1,1 @@
-C:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.UWP\StarWarsXF.UWP.csproj;x86
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.UWP\StarWarsXF.UWP.csproj;x86

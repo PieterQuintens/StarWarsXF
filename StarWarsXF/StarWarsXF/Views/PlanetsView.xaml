@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="StarWarsXF.Views.PlanetsView">
     <ContentPage.Content>
-        <ListView x:Name="PlanetsListView" Margin="20"
-                  RowHeight="120">
+        <ListView Margin="20"
+                  RowHeight="120" ItemsSource="{Binding Path=Planets}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -19,7 +19,7 @@
                                     <RowDefinition Height="*"/>
                                     <RowDefinition Height="*"/>
                                 </Grid.RowDefinitions>
-                                <Label Text="{Binding Planet.Name}" Style="{DynamicResource SubtitleStyle}"
+                                <Label Text="{Binding Name}" Style="{DynamicResource SubtitleStyle}"
                                        Grid.Row="0" Grid.Column="0" />
                                 <StackLayout Orientation="Horizontal" Grid.Row="1" Grid.Column="0">
                                     <Label Text="Climate: " Style="{DynamicResource BodyStyle}"/>
@@ -27,9 +27,9 @@
                                 </StackLayout>
                                 <StackLayout Orientation="Horizontal" Grid.Row="2" Grid.Column="0">
                                     <Label Text="Gravity: " Style="{DynamicResource BodyStyle}"/>
-                                    <Label Text="{Binding Planet.Gravity}" Style="{DynamicResource BodyStyle}" />
+                                    <Label Text="{Binding Gravity}" Style="{DynamicResource BodyStyle}" />
                                 </StackLayout>
-                                <Label Text="{Binding Planet.Terrain}" Style="{DynamicResource BodyStyle}" Grid.Row="3" Grid.Column="0"/>
+                                <Label Text="{Binding Terrain}" Style="{DynamicResource BodyStyle}" Grid.Row="3" Grid.Column="0"/>
                             </Grid>
                         </ViewCell.View>
                     </ViewCell>

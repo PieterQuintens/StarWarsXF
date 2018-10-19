@@ -12,9 +12,9 @@ namespace StarWarsXF.Views
             InitializeComponent();
         }
 
-        internal void FillPlanetDetails(Movie movie)
-        {
-            this.PlanetsListView.ItemsSource = movie.MoviePlanets;
-        }
+        //internal void FillPlanetDetails(Movie movie)
+        //{
+        //    this.PlanetsListView.ItemsSource = movie.MoviePlanets;
+        //}
     }
 }

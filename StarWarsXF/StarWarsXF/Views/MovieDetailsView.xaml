@@ -6,7 +6,7 @@
 			 x:Class="StarWarsXF.Views.MovieDetailsView">
 	<ContentPage.Resources>
 		<converters:MovieTitleToImageSourceConverter x:Key="MovieTitleToImageSourceConverter"></converters:MovieTitleToImageSourceConverter>
-        <converters:RatingConverter x:Key="RatingConverter"></converters:RatingConverter>
+		<converters:RatingConverter x:Key="RatingConverter"></converters:RatingConverter>
 	</ContentPage.Resources>
 	<ContentPage.Content>
 		<Grid Padding="10">
@@ -37,7 +37,7 @@
 			<StackLayout Orientation="Horizontal" Grid.Row="3" Spacing="8" HorizontalOptions="Center">
 				<Button Text="Down" Command="{Binding RateDownCommand}"/>
 				<Button Text="Up" Command="{Binding RateUpCommand}"/>
-				<Button Text="Show Planets" x:Name="PlanetsButton" Command="{Binding OnShowPlanets}" />
+				<Button Text="Show Planets" x:Name="PlanetsButton" Command="{Binding ShowPlanetsCommand}" />
 			</StackLayout>
 		</Grid>
 	</ContentPage.Content>

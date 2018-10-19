@@ -10,3 +10,15 @@ C:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarW
 C:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.csproj.CopyComplete
 C:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.dll
 C:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\bin\Debug\netstandard2.0\StarWars.Data.deps.json
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\bin\Debug\netstandard2.0\StarWars.Data.dll
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\bin\Debug\netstandard2.0\StarWars.Data.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\bin\Debug\netstandard2.0\StarWars.Domain.dll
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\bin\Debug\netstandard2.0\StarWars.Domain.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.csprojAssemblyReference.cache
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.csproj.CoreCompileInputs.cache
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.AssemblyInfoInputs.cache
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.AssemblyInfo.cs
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.csproj.CopyComplete
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.dll
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWars.Data\obj\Debug\netstandard2.0\StarWars.Data.pdb

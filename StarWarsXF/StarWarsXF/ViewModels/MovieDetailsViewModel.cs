@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Windows.Input;
 using StarWarsUniverse.Domain;
@@ -13,6 +14,7 @@ namespace StarWarsXF.ViewModels
         private Movie _currentMovie;
         private Command _rateDownCommand;
         private Command _rateUpCommand;
+        public Command ShowPlanetsCommand => new Command(OnShowPlanets);
 
         public Movie CurrentMovie
         {
@@ -76,7 +78,8 @@ namespace StarWarsXF.ViewModels
             await detailNavigationPage.PushAsync(planetsView);
             //Set planets
             var viewModel = (PlanetsViewModel)planetsView.BindingContext;
-            //viewModel.Planets = CurrentMovie.MoviePlanets.Select(mp => mp.Planet).ToList(); TODO: add Planets property to PlanetsViewModel
+            viewModel.Planets = CurrentMovie.MoviePlanets.Select(mp => mp.Planet).ToList();
+            //TODO: add Planets property to PlanetsViewModel
         }
     }
 }
