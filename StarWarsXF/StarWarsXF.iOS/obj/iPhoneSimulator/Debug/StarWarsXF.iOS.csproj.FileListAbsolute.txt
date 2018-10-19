@@ -209,3 +209,4 @@ D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.iOS\obj\iPhoneSimulato
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.iOS\obj\iPhoneSimulator\Debug\StarWarsXF.iOS.csproj.CopyComplete
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.iOS\obj\iPhoneSimulator\Debug\StarWarsXF.iOS.exe
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.iOS\obj\iPhoneSimulator\Debug\StarWarsXF.iOS.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.iOS\bin\iPhoneSimulator\Debug\Autofac.dll

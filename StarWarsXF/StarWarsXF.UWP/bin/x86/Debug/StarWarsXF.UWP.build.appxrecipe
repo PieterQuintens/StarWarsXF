@@ -28,6 +28,9 @@
     <AppxPackagedFile Include="D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF.UWP\bin\x86\Debug\StarWarsXF.UWP.exe">
       <PackagePath>entrypoint\StarWarsXF.UWP.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\11601738\.nuget\packages\autofac\4.8.1\lib\netstandard1.1\Autofac.dll">
+      <PackagePath>Autofac.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\11601738\.nuget\packages\microsoft.data.sqlite.core\2.1.0\lib\netstandard2.0\Microsoft.Data.Sqlite.dll">
       <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
     </AppxPackagedFile>
