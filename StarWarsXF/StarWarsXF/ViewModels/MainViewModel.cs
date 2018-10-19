@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using StarWarsUniverse.Data.Repositories;
+using StarWarsXF.Services;
+using StarWarsXF.Util;
 
 namespace StarWarsXF.ViewModels
 {
@@ -10,7 +13,7 @@ namespace StarWarsXF.ViewModels
 
         public MainViewModel()
         {
-            MovieListViewModel = new MovieListViewModel();
+            MovieListViewModel = new MovieListViewModel(AppContainer.Resolve<IMovieRepository>(), AppContainer.Resolve<INavigationService>());
         }
     }
 }

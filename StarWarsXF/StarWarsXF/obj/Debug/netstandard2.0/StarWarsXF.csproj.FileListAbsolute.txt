@@ -36,7 +36,10 @@ D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.csproj.CoreCompileInputs.cache
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.AssemblyInfoInputs.cache
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.AssemblyInfo.cs
-D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\XamlC.stamp
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.csproj.CopyComplete
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.dll
 D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\StarWarsXF.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\dev\Xamarin\Lab_StarWarsXF_Start\StarWarsXF\StarWarsXF\obj\Debug\netstandard2.0\XamlC.stamp

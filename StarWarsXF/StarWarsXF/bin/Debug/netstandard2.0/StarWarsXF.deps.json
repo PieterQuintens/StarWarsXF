@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "5fb773e769e297f5fed867ead86a4e6bb7f6e466"
+    "signature": "cacf649b85b9fd9c48f9086109f8c9f3591707bc"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "StarWarsXF/1.0.0": {
         "dependencies": {
+          "Autofac": "4.8.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.1.3",
           "NETStandard.Library": "2.0.3",
           "StarWars.Data": "1.0.0",
@@ -16,10 +17,23 @@
           "Xamarin.FFImageLoading.Forms": "2.4.3.840",
           "Xamarin.FFImageLoading.Svg.Forms": "2.4.3.840",
           "Xamarin.FFImageLoading.Transformations": "2.4.3.840",
-          "Xamarin.Forms": "3.2.0.839982"
+          "Xamarin.Forms": "3.2.0.839982",
+          "Mono.Android": "0.0.0.0"
         },
         "runtime": {
           "StarWarsXF.dll": {}
+        }
+      },
+      "Autofac/4.8.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Autofac.dll": {
+            "assemblyVersion": "4.8.1.0",
+            "fileVersion": "4.8.1.0"
+          }
         }
       },
       "Microsoft.Data.Sqlite.Core/2.1.0": {
@@ -304,6 +318,17 @@
           "lib/netstandard2.0/System.Collections.Immutable.dll": {
             "assemblyVersion": "1.2.3.0",
             "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.ComponentModel.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "1.0.24212.1"
           }
         }
       },
@@ -684,6 +709,14 @@
         "runtime": {
           "StarWars.Domain.dll": {}
         }
+      },
+      "Mono.Android/0.0.0.0": {
+        "runtime": {
+          "Mono.Android.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
       }
     }
   },
@@ -692,6 +725,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/4.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GYRLxd2wCzhvee2u1vs3AbUbF4CHDWfD7BCNjD3Vxb4wxQz3HC8bPm9Sj9uOT0gE8a6PC2fx1zufmhLgxK+cZg==",
+      "path": "autofac/4.8.1",
+      "hashPath": "autofac.4.8.1.nupkg.sha512"
     },
     "Microsoft.Data.Sqlite.Core/2.1.0": {
       "type": "package",
@@ -895,6 +935,13 @@
       "sha512": "sha512-RGxi2aQoXgZ5ge0zxrKqI4PU9LrYYoLC+cnEnWXKsSduCOUhE1GEAAoTexUVT8RZOILQyy1B27HC8Xw/XLGzdQ==",
       "path": "system.collections.immutable/1.5.0",
       "hashPath": "system.collections.immutable.1.5.0.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
     },
     "System.ComponentModel.Annotations/4.5.0": {
       "type": "package",
@@ -1127,6 +1174,11 @@
     },
     "StarWars.Domain/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mono.Android/0.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -3,6 +3,7 @@ using StarWars.Data;
 using StarWarsUniverse.Data;
 using System;
 using System.IO;
+using StarWarsXF.Util;
 using StarWarsXF.ViewModels;
 using StarWarsXF.Views;
 using Xamarin.Forms;
@@ -20,6 +21,8 @@ namespace StarWarsXF
             // init database connection string
             string dbName = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.LocalApplicationData), "starwars.db");
             StarWarsContextFactory.ConnectionString = $"Data Source = {dbName}";
+
+            AppContainer.RegisterDependencies();
 
             using (StarWarsContext context = StarWarsContextFactory.Create())
             {

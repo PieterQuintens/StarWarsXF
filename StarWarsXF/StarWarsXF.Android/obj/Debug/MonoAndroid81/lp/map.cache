@@ -1,3 +1,4 @@
+Autofac
 FFImageLoading
 FFImageLoading.Forms
 FFImageLoading.Forms.Platform
@@ -64,11 +65,14 @@ Xamarin.Forms.Xaml
 netstandard
 StarWars.Data
 StarWars.Domain
-System.ComponentModel.Annotations
-System.Collections
-System.Linq.Queryable
+System.Resources.ResourceManager
 System.Diagnostics.Debug
+System.Collections
+System.Diagnostics.Tools
+System.Reflection.Primitives
+System.ComponentModel
 System.Reflection.Extensions
 System.Threading
-System.Resources.ResourceManager
+System.ComponentModel.Annotations
+System.Linq.Queryable
 System.Threading.Tasks
